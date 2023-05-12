@@ -1,3 +1,5 @@
+# MERN project  
+
 __使用套件如下__  
 const express = require('express');  
 const cors = require('cors');  
@@ -16,9 +18,19 @@ const Place = require('./models/place');
 const Booking = require('./models/booking');  
   
   
-  # 登入系統 
-  __使用axios、cors、express進行前後端資訊傳遞__
-![login](https://github.com/jeff50508/travel-booking-web/assets/111333990/0adb1bc7-964e-4654-81e2-bea0e782a651)
-![register](https://github.com/jeff50508/travel-booking-web/assets/111333990/21672dea-5c77-4293-ad69-518f87353be0)
-![logout](https://github.com/jeff50508/travel-booking-web/assets/111333990/30b9883b-6e0a-45fc-953d-cc87afdb69b7)
+  __使用tailwind進行切版，axios、cors、express前後端資訊傳遞，並對使用者的資料使用bcrypt加密、jwt簽名，且加入環境變數上傳mongodb__  
+    # 登入、註冊系統 
+  ![login](https://github.com/jeff50508/travel-booking-web/assets/111333990/0adb1bc7-964e-4654-81e2-bea0e782a651)
+  ![register](https://github.com/jeff50508/travel-booking-web/assets/111333990/21672dea-5c77-4293-ad69-518f87353be0)
+  
+  
+  __登入後將會顯示所有用戶上傳的訂房資訊__
+  ![螢幕擷取畫面 2023-05-06 190239](https://github.com/jeff50508/travel-booking-web/assets/111333990/8a73e1fe-23c3-438a-94d3-d4e2bdac8273)  
+  
+  __可選擇登出、查看目前已預訂的住宿、新增住宿
+  ![logout](https://github.com/jeff50508/travel-booking-web/assets/111333990/e718346d-d61a-44e9-92d5-30dcd0d5541a)
+  ![mybook](https://github.com/jeff50508/travel-booking-web/assets/111333990/2cb91db5-332a-4fa7-8570-986a4aea3118)
+  ![new accmodation](https://github.com/jeff50508/travel-booking-web/assets/111333990/38bbd620-0ae1-4a5b-afd8-53ed70b06f71)
 
+  
+  
