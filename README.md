@@ -1,17 +1,17 @@
-![螢幕擷取畫面 2023-05-06 194315](https://github.com/jeff50508/travel-booking-web/assets/111333990/3c5c89eb-06c2-42f5-b15d-46b5ec4abe6e)
-![add new place](https://github.com/jeff50508/travel-booking-web/assets/111333990/6e33cd90-8beb-4c0e-9597-6619cabe5071)
-![ALLUCANSEE](https://github.com/jeff50508/travel-booking-web/assets/111333990/b6692a93-18e3-4ad0-ac09-7ee26be031c0)
-![bookrightnow](https://github.com/jeff50508/travel-booking-web/assets/111333990/33953801-4f28-4028-b45d-29cec037af30)
-![index](https://github.com/jeff50508/travel-booking-web/assets/111333990/2fa41b1b-61a1-4c36-b340-8943a1f25b29)
-![mybook](https://github.com/jeff50508/travel-booking-web/assets/111333990/40cc372b-8615-41bc-8111-250493e536ea)
-![new accmodation](https://github.com/jeff50508/travel-booking-web/assets/111333990/b4131a02-0f21-40a4-a99e-f43f5924cbcf)
-![uploadurnewplace](https://github.com/jeff50508/travel-booking-web/assets/111333990/a10c57f9-eab5-455e-a451-0ee441cc29b7)
-![螢幕擷取畫面 2023-05-06 182514](https://github.com/jeff50508/travel-booking-web/assets/111333990/bb06206a-da20-4426-859b-2e608ca01886)
-![螢幕擷取畫面 2023-05-06 182619](https://github.com/jeff50508/travel-booking-web/assets/111333990/19cff72f-ae7d-44a1-9f63-991646dd906d)
-![螢幕擷取畫面 2023-05-06 183105](https://github.com/jeff50508/travel-booking-web/assets/111333990/4cf598cc-30c5-4123-8193-2da62b906502)
-![螢幕擷取畫面 2023-05-06 190007](https://github.com/jeff50508/travel-booking-web/assets/111333990/9465df88-3e71-4f98-8688-6c40814053e1)
-![螢幕擷取畫面 2023-05-06 190054](https://github.com/jeff50508/travel-booking-web/assets/111333990/98ba0207-dfa4-4b29-ad3f-042ad4751a19)
-![螢幕擷取畫面 2023-05-06 190136](https://github.com/jeff50508/travel-booking-web/assets/111333990/4e0b3240-5fa9-4646-adfc-bf627fad6a68)
-![螢幕擷取畫面 2023-05-06 190239](https://github.com/jeff50508/travel-booking-web/assets/111333990/fe7ea6d1-dd3b-43f7-8e9e-239b5e8d152d)
-![螢幕擷取畫面 2023-05-06 190348](https://github.com/jeff50508/travel-booking-web/assets/111333990/2e8ad82e-4deb-43cd-ba37-0db84c6e1580)
-![螢幕擷取畫面 2023-05-06 190420](https://github.com/jeff50508/travel-booking-web/assets/111333990/1733d6a7-95b0-4ea2-a207-6d00c5085f6b)
+__使用套件如下__
+const express = require('express');
+const cors = require('cors');
+const mongoose = require('mongoose');
+const bcrypt = require('bcrypt');
+const User = require('./models/user')
+const jwt = require('jsonwebtoken');
+const cookieParser = require('cookie-parser');
+const { Axios } = require('axios');
+const imageDownloader = require('image-downloader');
+require('dotenv').config();
+const app = express();
+const multer = require('multer');
+const fs = require('fs');
+const Place = require('./models/place');
+const Booking = require('./models/booking');
+
