@@ -1,70 +1,17 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![螢幕擷取畫面 2023-05-06 194315](https://github.com/jeff50508/travel-booking-web/assets/111333990/3c5c89eb-06c2-42f5-b15d-46b5ec4abe6e)
+![add new place](https://github.com/jeff50508/travel-booking-web/assets/111333990/6e33cd90-8beb-4c0e-9597-6619cabe5071)
+![ALLUCANSEE](https://github.com/jeff50508/travel-booking-web/assets/111333990/b6692a93-18e3-4ad0-ac09-7ee26be031c0)
+![bookrightnow](https://github.com/jeff50508/travel-booking-web/assets/111333990/33953801-4f28-4028-b45d-29cec037af30)
+![index](https://github.com/jeff50508/travel-booking-web/assets/111333990/2fa41b1b-61a1-4c36-b340-8943a1f25b29)
+![mybook](https://github.com/jeff50508/travel-booking-web/assets/111333990/40cc372b-8615-41bc-8111-250493e536ea)
+![new accmodation](https://github.com/jeff50508/travel-booking-web/assets/111333990/b4131a02-0f21-40a4-a99e-f43f5924cbcf)
+![uploadurnewplace](https://github.com/jeff50508/travel-booking-web/assets/111333990/a10c57f9-eab5-455e-a451-0ee441cc29b7)
+![螢幕擷取畫面 2023-05-06 182514](https://github.com/jeff50508/travel-booking-web/assets/111333990/bb06206a-da20-4426-859b-2e608ca01886)
+![螢幕擷取畫面 2023-05-06 182619](https://github.com/jeff50508/travel-booking-web/assets/111333990/19cff72f-ae7d-44a1-9f63-991646dd906d)
+![螢幕擷取畫面 2023-05-06 183105](https://github.com/jeff50508/travel-booking-web/assets/111333990/4cf598cc-30c5-4123-8193-2da62b906502)
+![螢幕擷取畫面 2023-05-06 190007](https://github.com/jeff50508/travel-booking-web/assets/111333990/9465df88-3e71-4f98-8688-6c40814053e1)
+![螢幕擷取畫面 2023-05-06 190054](https://github.com/jeff50508/travel-booking-web/assets/111333990/98ba0207-dfa4-4b29-ad3f-042ad4751a19)
+![螢幕擷取畫面 2023-05-06 190136](https://github.com/jeff50508/travel-booking-web/assets/111333990/4e0b3240-5fa9-4646-adfc-bf627fad6a68)
+![螢幕擷取畫面 2023-05-06 190239](https://github.com/jeff50508/travel-booking-web/assets/111333990/fe7ea6d1-dd3b-43f7-8e9e-239b5e8d152d)
+![螢幕擷取畫面 2023-05-06 190348](https://github.com/jeff50508/travel-booking-web/assets/111333990/2e8ad82e-4deb-43cd-ba37-0db84c6e1580)
+![螢幕擷取畫面 2023-05-06 190420](https://github.com/jeff50508/travel-booking-web/assets/111333990/1733d6a7-95b0-4ea2-a207-6d00c5085f6b)
