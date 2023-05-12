@@ -14,11 +14,9 @@ require('dotenv').config();
 const app = express();  
 const multer = require('multer');  
 const fs = require('fs');  
-const Place = require('./models/place');  
-const Booking = require('./models/booking');  
   
   
-  __使用tailwind切版，axios、cors、express前、後端資訊傳遞，並對使用者的資料使用bcrypt加密、jwt簽名、cookie-parser解析使用者cookies，且加入環境變數上傳mongodb__  
+  __使用tailwind切版，axios、cors、express進行前、後端資訊傳遞，並對使用者的資料使用bcrypt加密、jwt簽名、cookie-parser解析使用者cookies，且加入環境變數上傳mongodb__  
   # 登入、註冊系統 
   ![login](https://github.com/jeff50508/travel-booking-web/assets/111333990/0adb1bc7-964e-4654-81e2-bea0e782a651)
   ![register](https://github.com/jeff50508/travel-booking-web/assets/111333990/21672dea-5c77-4293-ad69-518f87353be0)
