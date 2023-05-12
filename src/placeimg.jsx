@@ -1,11 +1,3 @@
-export default function PlaceImg ({place,index=0,className=null}) {
-    if (!place.photos?.length) {
-        return '';
-    }
-    if (!className) {
-        className = 'object-cover';
-    }
-    return (
-            <img className={className}src={'http://localhost:4000/uploads/'+place.photos[index]} alt="" />
-    )
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2955921dcc7119af916430898db7f90c8f08ada980d3c647239e1d416723ff0
+size 327
