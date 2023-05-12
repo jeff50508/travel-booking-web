@@ -19,4 +19,6 @@ const Booking = require('./models/booking');
   # 登入系統 
   __使用axios、cors、express進行前後端資訊傳遞__
 ![login](https://github.com/jeff50508/travel-booking-web/assets/111333990/0adb1bc7-964e-4654-81e2-bea0e782a651)
+![register](https://github.com/jeff50508/travel-booking-web/assets/111333990/21672dea-5c77-4293-ad69-518f87353be0)
+![logout](https://github.com/jeff50508/travel-booking-web/assets/111333990/30b9883b-6e0a-45fc-953d-cc87afdb69b7)
 
